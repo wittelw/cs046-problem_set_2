@@ -4,7 +4,7 @@ public class FlowerViewerDraft {
 		rose.draw();
 		rose = new Flower(80, 80);
 		rose.draw();
-		rose = new Flower(51, 60);
+		rose = new Flower(52, 60);
 		rose.draw();
 		rose = new Flower(555, 666);
 		rose.draw();
